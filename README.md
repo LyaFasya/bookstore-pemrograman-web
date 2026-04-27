@@ -1,10 +1,10 @@
-📚 REST API Bookstore
+📚 **REST API Bookstore**
 
 Project ini merupakan implementasi sederhana REST API menggunakan Express.js untuk mengelola data buku (bookstore) dengan database MySQL.
 
-🚀 Fitur
+🚀 **Fitur**
 GET /books -> Menampilkan semua data buku
 POST /books -> Menambahkan data buku baru
 
-⚙️ Konfigurasi
+⚙️ **Konfigurasi**
 Project ini menggunakan ESM (module type), sehingga menggunakan import/export bukan require.
